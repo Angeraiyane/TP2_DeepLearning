@@ -1,5 +1,5 @@
 # TP2 : Optimisation et Régularisation des FFN
-## 📌 Notes Spéciales sur l'Exécution (Exercice 5)
+##  Notes Spéciales sur l'Exécution (Exercice 5)
 
 En raison d'un conflit d'importation mineur survenu à la toute fin de l'exécution de l'exploration aléatoire (`ModuleNotFoundError` sur la variable du Grid Search alors que les 48 tirages du Random Search étaient déjà complétés avec succès), le flux de travail a été sécurisé et partitionné pour éviter une ré-exécution coûteuse en temps de calcul :
 
